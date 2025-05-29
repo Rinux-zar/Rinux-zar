@@ -1,3 +1,10 @@
+# 👋 Hello! I'am [Karim Ahmad Sulaiman]
+
+![Halo Animasi](https://media.giphy.com/media/YaOxRsmL6xwrosD4uC/giphy.gif) 
+
+I am a beginner developer who loves to learn new technologies, collaborate, and share knowledge with other developer friends!
+---
+
 # 💫 About Me:
 🔭 I am currently a student<br>👯 I would like to collaborate with you all<br>🤝 I ask for your cooperation<br>🌱 I am currently studying many things
 
