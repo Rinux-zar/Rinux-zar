@@ -1,8 +1,6 @@
 # 👋 Hello! I'am Karim Ahmad Sulaiman
 
-![Halo Animasi](https://media.giphy.com/media/YaOxRsmL6xwrosD4uC/giphy.gif) 
-
-<img align="top" height="150" src="tenor.gif" />
+<img align="center" height="250" src="tenor.gif" />
 
 I am a beginner developer who loves to learn new technologies, collaborate, and share knowledge with other developer friends!
 ---
