@@ -2,6 +2,7 @@
 
 ![Halo Animasi](https://media.giphy.com/media/YaOxRsmL6xwrosD4uC/giphy.gif) 
 
+
 I am a beginner developer who loves to learn new technologies, collaborate, and share knowledge with other developer friends!
 ---
 
@@ -29,11 +30,3 @@ Hubungi saya melalui platform sosial media berikut:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/gertoy837/gertoy837/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rinux-zar/count.svg?"  />
-</div>
-
-###
