@@ -28,3 +28,12 @@ Hubungi saya melalui platform sosial media berikut:
 [![](https://visitcount.itsvg.in/api?id=Rinux-Zar&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/gertoy837/gertoy837/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rinux-zar/count.svg?"  />
+</div>
+
+###
