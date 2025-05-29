@@ -1,4 +1,4 @@
-# 👋 Hello! I'am [Karim Ahmad Sulaiman]
+# 👋 Hello! I'am Karim Ahmad Sulaiman
 
 ![Halo Animasi](https://media.giphy.com/media/YaOxRsmL6xwrosD4uC/giphy.gif) 
 
